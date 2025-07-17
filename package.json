@@ -1,0 +1,6 @@
+{
+  "name": "snapshot-strategy-xaqua",
+  "version": "0.1.0",
+  "main": "src/xaqua/index.js",
+  "type": "module"
+}
